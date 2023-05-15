@@ -5,3 +5,5 @@
 
 
 ## Create a Logistic Regression Model with the Oversampled Data
+![image](https://github.com/sazhu809/Credit-Risk-Classification/assets/32376453/778c21b3-df43-49ac-ac46-deb05a77286a)
+
